@@ -1,4 +1,5 @@
-#Hackerrank 
+##Hackerrank 
 
-https://www.hackerrank.com/profile/furkantokgz
-@furkantokgz
+- https://www.hackerrank.com/profile/furkantokgz
+- @furkantokgz
+
